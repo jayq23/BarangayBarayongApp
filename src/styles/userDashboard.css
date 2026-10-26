@@ -53,8 +53,8 @@ body {
 }
 
 .user-dashboard-logo {
-  width: 80px;
-  height: 80px;
+  width: 140px;
+  height: 90px;
   display: grid;
   place-items: center;
   overflow: hidden;
@@ -79,7 +79,7 @@ body {
 }
 
 .user-dashboard-brand strong {
-  font-size: 14px;
+  font-size: 20px;
 }
 
 .user-dashboard-brand span {
